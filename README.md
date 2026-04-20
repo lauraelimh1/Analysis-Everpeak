@@ -1,10 +1,3 @@
-# Analysis-Everpeak
-
-Aquí tienes una plantilla ajustada al caso EverPeak.
-
-Puedes copiarla tal cual y adaptarla:
-
-📌 README.md — Ejemplo sugerido
 # EverPeak Retail Analysis – Sprint 6
 
 Este repositorio contiene el análisis realizado durante el Sprint 6 del caso EverPeak–SilverBasket.
